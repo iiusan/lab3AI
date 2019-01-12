@@ -1,0 +1,15 @@
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\bin\Debug\lab3AI.exe.config
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\bin\Debug\lab3AI.exe
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\bin\Debug\lab3AI.pdb
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\obj\Debug\lab3AI.csprojAssemblyReference.cache
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\obj\Debug\lab3AI.Form1.resources
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\obj\Debug\lab3AI.Properties.Resources.resources
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\obj\Debug\lab3AI.csproj.GenerateResource.cache
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\obj\Debug\lab3AI.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\obj\Debug\lab3AI.exe
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\obj\Debug\lab3AI.pdb
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\bin\Debug\OxyPlot.dll
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Ionut\source\repos\lab3AI\lab3AI\lab3AI\obj\Debug\lab3AI.csproj.CopyComplete
