@@ -9,8 +9,8 @@ namespace lab3AI.Models
     public class Pret
     {
         private double _value;
-        private double _min=1299, _max=2599;
+        private double _min=999, _max=6599;
         public double Value { get { return _value; } set { _value = value; } }
-        public double NormalizedValue { get { return (_value - _min) / (_max - _min); } }
+        public double NormalizedValue { get { return ((_value - _min) / (_max - _min)).ToOneDecimalDouble(); } }
     }
 }

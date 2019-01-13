@@ -10,13 +10,16 @@ namespace lab3AI.Models
     {
         public static double Output(double x)
         {
-            return 1.0 / (1.0 + Math.Exp(-x));
+            // return 1.0 / (1.0 +  Math.Exp(-x));
+            return 1.0 / (1.0 + Math.Pow(Math.E, -x));
         }
 
         public static double Derivative(double x)
         {
             return x * (1 - x);
         }
+
+       
     }
 
 }

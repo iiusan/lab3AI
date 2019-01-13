@@ -43,7 +43,7 @@ namespace lab3AI.Models
         public void adjustWeights()
         {
             for (int i = 0; i < INPUT; ++i)
-                _weights[i] += _error * _inputs[i];
+                _weights[i] += Form1.rata * _error * _inputs[i];
             _biasWeight += _error;
         }
     }
